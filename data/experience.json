@@ -1,0 +1,23 @@
+[
+	{
+        "company": "Politeknik Negeri Semarang",
+		"logo":"images/polines-logo.png",
+        "position": "Teknik Elektronika",
+        "year": "2022-sekarang",
+        "description": "Saya masih mahasiswa aktif di Politeknik Negeri Semarang jurusan Teknik Elektro dan prodi D3 Teknik Elektronika"
+    },
+    {
+        "company": "PT Techpack Demak",
+		"logo":"images/epson-logo.png",
+        "position": "Failure Analyst",
+        "year": "Juni-Desember 2024",
+        "description": "Saya Kuliah Kerja Praktek di PT Techpack Asia Demak pada Juni-Desember 2024, saya masuk di divisi IT Team PT Techpack Asia Demak"
+    },
+	{
+        "company": 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+		"logo":"images/pkm.png",
+        "position": "Bidang PI",
+        "year": "2022",
+        "description": "Saya menjadi ketua tim Pengusul Proposal PKM Tahun 2024 pada PKM PI"
+    }
+]

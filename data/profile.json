@@ -1,0 +1,43 @@
+{
+    "name": "Michael Jordan Hutabarat- Teknik Elektronika",
+    "description": "Saya masih mahasiswa aktif Politeknik Negeri Semarang sampai sekarang",
+    "profileImage": "images/michael.jpg",
+    "email": "michaelbarat712@gmail.com",
+    "phone": "+62 (851) 17405041",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/michael-jordan-hutabarat-976047250/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/michaellhtb"
+        },
+        {
+            "platform": "Intagram",
+            "url": "https://www.instagram.com/michaellhtb/"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/cv.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+        {
+            "name": "Teknik Elektronika",
+            "icon": "fas fa-heart-pulse",
+            "level": 70
+        },
+        {
+            "name": "Hardware Programming",
+            "icon": "fas fa-c",
+            "level": 70
+        },
+        {
+            "name": "Internet of Things",
+            "icon": "fas fa-wifi",
+            "level": 70
+        }
+    ]
+}
