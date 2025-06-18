@@ -2,15 +2,15 @@
     {
         "company": "PT Techpack Demak",
 		"logo":"images/pt-techpack-asia.png",
-        "position": "Failure Analyst",
+        "position": "Team IT",
         "year": "Juni-Desember 2024",
         "description": "Saya Kuliah Kerja Praktek di PT Techpack Asia Demak pada Juni-Desember 2024, saya masuk di divisi IT Team PT Techpack Asia Demak"
     },
 	{
-        "company": 	{"name": "PKM PI", "icon": "fas fa-c", "level": 90},
+       "company": "PKM PI",
 		"logo":"images/pkm.png",
         "position": "Bidang PI",
-        "year": "2022",
+        "year": "2024",
         "description": "Saya menjadi ketua tim Pengusul Proposal PKM Tahun 2024 pada PKM PI"
     }
 ]
