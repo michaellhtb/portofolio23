@@ -7,7 +7,7 @@
         "description": "Saya Kuliah Kerja Praktek di PT Techpack Asia Demak pada Juni-Desember 2024, saya masuk di divisi IT Team PT Techpack Asia Demak"
     },
 	{
-        "company": 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        "company": 	{"name": "PKM PI", "icon": "fas fa-c", "level": 90},
 		"logo":"images/pkm.png",
         "position": "Bidang PI",
         "year": "2022",
