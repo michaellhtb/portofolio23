@@ -6,5 +6,12 @@
         "year": "2022-sekarang",
         "description": "Masih menjadi mahasiswa Aktif Politeknik Negeri Semarang jurusan D3 Teknik Elektronika"
     }
+	{
+    "university": "SMA Negeri 1 Tarutung",
+		"logo": "images/sma1.png",
+        "major": "MIPA",
+        "year": "2019-2022",
+        "description": "Saya menjadi siswa Sekolah Menegah Atas (SMA) di SMA Negeri 1 Tarutung Sumatera Utara"
+    }
 
 ]
