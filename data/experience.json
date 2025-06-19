@@ -13,4 +13,18 @@
         "year": "2024",
         "description": "Saya menjadi ketua tim Pengusul Proposal PKM Tahun 2024 pada PKM PI"
     }
+	{
+       "company": "LPMI",
+		"logo":"images/lpmi.png",
+        "position": "Bidang PI",
+        "year": "2022-Sekarang",
+        "description": "Saya menjadi bagian dari Lembaga Pelayanan Mahasiswa Indonesia, saya menjadi bagian di bidang PI. Saya melakukan pelayanan sudah mulai sejak 2022 sampai sekarang."
+    }
+	{
+       "company": "NHKBP",
+		"logo":"images/nhkbp.png",
+        "position": "Wakil Ketua NHKBP",
+        "year": "2023-Sekarang",
+        "description": "Saya menjadi Wakil Ketua Naposo Bulung HKBP Kertanegara. Saya mengambil bagian pelayanan di gereja HKBP Kertanegara sebagai Wakil Ketua NHKBP ."
+    }
 ]
